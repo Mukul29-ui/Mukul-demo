@@ -1,3 +1,3 @@
 # Mukul-demo
 MY name is Mukul.
-this is my first demo.
+This is my first demo.
